@@ -1,0 +1,5 @@
+name: EndermanMobs
+version: '1.0-SNAPSHOT'
+main: winlyps.endermanMobs.EndermanMobs
+api-version: '1.20'
+authors: [ Winlyps ]
